@@ -4,6 +4,11 @@
 - [Background](#Background)
   - [Datacleaning](#datacleaning)
 - [Findings](#Findings)
+  - [correlations](#corr)
+  - [heat map price](#heatmap)
+  - [Boxplot Prices by Location](#boxplot)
+  - [Median Price Per Square Foot by Location](#median)
+  - [Bedrooms by Location](#bedrooms)
 - [Usage](#Usage)
 
 <a name="Background"/>
@@ -22,21 +27,32 @@ Right after the data was scraped it was organized and simple data cleaning was p
 <a name="Findings"/>
 
 ## Findings
+
+<a name="corr"/>
+
 ![image](IMG_Folder/download.png)
 
 Finding the correlations between our continous variables I found that square feet had the highest relationship between the price of an apartment. Square feet also had a high relationship with the number of bedrooms and bathrooms, but that was expected since the more bathrooms & bedrooms the higher the square footage.
+
+<a name="heatmap"/>
 
 ![folium](IMG_Folder/folium_map.JPG)
 
 The map above gives a general sense of what areas are more expensive by using a heatmap to show the magnitue of prices.
 
+<a name="boxplot"/>
+
 ![boxplot_price](IMG_Folder/boxplot_price.png)
 
 The boxplot above and the heatmap both show that San Francisco City (SFC), Peninsula (PEN), and South Bay (SBY) have the highest prices of apartments in our craigslist postings. This makes alot of sense, but what is more interesting is the North Bay & East Bay are the cheapest on average. 
 
+<a name="median"/>
+
 ![median](IMG_Folder/median_price.png)
 
 The numbers above show the median square foot cost for each location and we can see that the cheapest locations cost almost half as much as the most expensive locations. 
+
+<a name="bedrooms"/>
 
 ![number_rooms](IMG_Folder/number_bedrooms.png)
 
