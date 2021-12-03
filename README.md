@@ -62,3 +62,5 @@ I also checked if any of the categorical variables that I collected such as smok
 <a name="Usage"/>
 
 ## Usage
+
+This project can be viewed here on [nbviewer](https://nbviewer.org/github/EdgarFonseca94/CraigslistAptPricing/blob/main/Craigslist_EDA.ipynb) which will be easier to open and scroll through.
