@@ -42,6 +42,7 @@ The numbers above show the median square foot cost for each location and we can 
 
 Not only is the Northbay more cheaper by square feet, but it also has the highest proportion of 2 or more bedroom apartments. This means that a family that would have no trouble finding a low-cost apartment that is spacious in the Northbay. Opposed to San Francisco that has a high rate of studios and 1 bedroom apartments at a high cost.
 
+I also checked if any of the categorical variables that I collected such as smoking availibility and dog/cat policy affected price, but they did not show any significant price difference. This may also have been because of how the data was collected so I restrained myself from sharing about it.
 <a name="Usage"/>
 
 ## Usage
