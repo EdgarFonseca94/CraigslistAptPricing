@@ -22,7 +22,7 @@ Right after the data was scraped it was organized and simple data cleaning was p
 <a name="Findings"/>
 
 ## Findings
-<img src ="https://github.com/EdgarFonseca94/CraigslistAptPricing/blob/32d2db53991b7ed341b4cb0f63f8aa2b035ea8da/IMG_Folder/download.png" width="250" height = "250">
+<img src ="https://github.com/EdgarFonseca94/CraigslistAptPricing/blob/32d2db53991b7ed341b4cb0f63f8aa2b035ea8da/IMG_Folder/download.png" width="300" height = "300">
 
 <a name="Usage"/>
 
