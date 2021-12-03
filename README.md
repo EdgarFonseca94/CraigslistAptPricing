@@ -26,6 +26,13 @@ Right after the data was scraped it was organized and simple data cleaning was p
 
 Finding the correlations between our continous variables I found that square feet had the highest relationship between the price of an apartment. Square feet also had a high relationship with the number of bedrooms and bathrooms, but that was expected since the more bathrooms & bedrooms the higher the square footage.
 
+![folium](IMG_Folder/folium_map.JPG)
+
+The map above gives a general sense of what areas are more expensive by using a heatmap to show the magnitue of prices.
+
+![boxplot_price](IMG_Folder/boxplot_price.png)
+
+The boxplot above and the heatmap both show that San Francisco City (SFC), Peninsula (PEN), and South Bay (SBY) have the highest prices of apartments in our craigslist postings. 
 <a name="Usage"/>
 
 ## Usage
