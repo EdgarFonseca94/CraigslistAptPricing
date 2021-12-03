@@ -23,6 +23,7 @@ Right after the data was scraped it was organized and simple data cleaning was p
 
 ## Findings
 ![image](IMG_Folder/download.png)
+
 Finding the correlations between our continous variables I found that square feet had the highest relationship between the price of an apartment. Square feet also had a high relationship with the number of bedrooms and bathrooms, but that was expected since the more bathrooms & bedrooms the higher the square footage.
 
 <a name="Usage"/>
