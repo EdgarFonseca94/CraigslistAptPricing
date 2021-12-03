@@ -1,11 +1,9 @@
 # Bay Area Apartment Pricing - Exploratory Analysis
 
 ## Table of Contents
-[Background](#Background)
-
-[Findings](#Findings)
-
-[Usage](#Usage)
+- [Background](#Background)
+- [Findings](#Findings)
+- [Usage](#Usage)
 
 <a name="Background"/>
 
