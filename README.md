@@ -37,6 +37,11 @@ The boxplot above and the heatmap both show that San Francisco City (SFC), Penin
 ![median](IMG_Folder/median_price.png)
 
 The numbers above show the median square foot cost for each location and we can see that the cheapest locations cost almost half as much as the most expensive locations. 
+
+![number_rooms](IMG_Folder/number_bedrooms.png)
+
+Not only is the Northbay more cheaper by square feet, but it also has the highest proportion of 2 or more bedroom apartments. This means that a family that would have no trouble finding a low-cost apartment that is spacious in the Northbay. Opposed to San Francisco that has a high rate of studios and 1 bedroom apartments at a high cost.
+
 <a name="Usage"/>
 
 ## Usage
