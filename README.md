@@ -2,8 +2,11 @@
 
 ## Table of Contents
 [Background](#Background)
+
 [Findings](#Findings)
+
 [Usage](#Usage)
+
 <a name="Background"/>
 
 ## Background
