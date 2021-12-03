@@ -22,7 +22,7 @@ Right after the data was scraped it was organized and simple data cleaning was p
 <a name="Findings"/>
 
 ## Findings
-<img surrc ="IMG_Folder/download.png" width="48" height = "48">
+<img surrc ="IMG_Folder/download.png" width="250" height = "250">
 <a name="Usage"/>
 
 ## Usage
