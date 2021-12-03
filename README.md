@@ -32,7 +32,9 @@ The map above gives a general sense of what areas are more expensive by using a 
 
 ![boxplot_price](IMG_Folder/boxplot_price.png)
 
-The boxplot above and the heatmap both show that San Francisco City (SFC), Peninsula (PEN), and South Bay (SBY) have the highest prices of apartments in our craigslist postings. 
+The boxplot above and the heatmap both show that San Francisco City (SFC), Peninsula (PEN), and South Bay (SBY) have the highest prices of apartments in our craigslist postings. This makes alot of sense, but what is more interesting is the North Bay & East Bay are the cheapest on average. 
+
+
 <a name="Usage"/>
 
 ## Usage
